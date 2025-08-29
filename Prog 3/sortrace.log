@@ -1,0 +1,19 @@
+Generating 1000000 random numbers
+argv[0]:./generate
+argv[1]:1000000
+argv[2]:100000
+argv[3]:999999
+Starting system sort
+
+real	0m4.494s
+user	0m4.419s
+sys	0m0.052s
+Starting my sort
+
+real	70m30.453s
+user	70m10.697s
+sys	0m10.657s
+
+real	70m23.844s
+user	70m4.367s
+sys	0m10.654s
